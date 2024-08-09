@@ -51,6 +51,9 @@
 		753DC7332C66BA1D00025FDC /* Simple Budget */ = {
 			isa = PBXGroup;
 			children = (
+				753DC7422C66BE3200025FDC /* Views */,
+				753DC7432C66BE3600025FDC /* Models */,
+				753DC7442C66BE3B00025FDC /* Resources */,
 				753DC7342C66BA1D00025FDC /* Simple_BudgetApp.swift */,
 				753DC7362C66BA1D00025FDC /* ContentView.swift */,
 				753DC7382C66BA1E00025FDC /* Assets.xcassets */,
@@ -65,6 +68,27 @@
 				753DC73B2C66BA1E00025FDC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		753DC7422C66BE3200025FDC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		753DC7432C66BE3600025FDC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		753DC7442C66BE3B00025FDC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
